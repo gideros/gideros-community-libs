@@ -1,2 +1,8 @@
 Allen https://github.com/Yonaba/Allen/raw/master/Lib/Allen.lua
 Moses https://github.com/Yonaba/Moses/raw/master/Lib/Moses.lua
+AceSlide https://github.com/ar2rsawseen/AceSlide_oop/blob/master/AceSlide.lua
+Localize https://github.com/ar2rsawseen/AceSlide_oop/blob/master/AceSlide.lua
+Gestures https://github.com/ar2rsawseen/Gestures/blob/master/Gestures.lua
+TextWrap https://github.com/ar2rsawseen/TextWrap/blob/master/TextWrap.lua
+dataSaver https://github.com/ar2rsawseen/dataSaver/blob/master/dataSaver.lua
+Unite https://github.com/ar2rsawseen/GiderosUnite/blob/master/classes/Unite.lua
