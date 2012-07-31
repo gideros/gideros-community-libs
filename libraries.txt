@@ -1,8 +1,14 @@
+Scene-Manager https://github.com/gideros/Scene-Manager/blob/master/scenemanager.lua
+GTween https://github.com/gideros/GTween/blob/master/gtween.lua
+Button https://github.com/gideros/Button/blob/master/button.lua
+BMFont https://github.com/gideros/BMFont/blob/master/bmfont.lua
+Easing https://github.com/gideros/Scene-Manager/blob/master/easing.lua
 Allen https://github.com/Yonaba/Allen/raw/master/Lib/Allen.lua
 Moses https://github.com/Yonaba/Moses/raw/master/Lib/Moses.lua
 AceSlide https://github.com/ar2rsawseen/AceSlide_oop/blob/master/AceSlide.lua
-Localize https://github.com/ar2rsawseen/AceSlide_oop/blob/master/AceSlide.lua
+Localize https://github.com/ar2rsawseen/Localize/blob/master/Localize.lua
 Gestures https://github.com/ar2rsawseen/Gestures/blob/master/Gestures.lua
 TextWrap https://github.com/ar2rsawseen/TextWrap/blob/master/TextWrap.lua
 dataSaver https://github.com/ar2rsawseen/dataSaver/blob/master/dataSaver.lua
 Unite https://github.com/ar2rsawseen/GiderosUnite/blob/master/classes/Unite.lua
+NdShape https://github.com/ndoss/gideros_playground/blob/master/shapes/ndshape.lua
