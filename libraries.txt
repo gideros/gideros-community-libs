@@ -12,3 +12,5 @@ TextWrap https://github.com/ar2rsawseen/TextWrap/blob/master/TextWrap.lua
 dataSaver https://github.com/ar2rsawseen/dataSaver/blob/master/dataSaver.lua
 Unite https://github.com/ar2rsawseen/GiderosUnite/blob/master/classes/Unite.lua
 NdShape https://github.com/ndoss/gideros_playground/blob/master/shapes/ndshape.lua
+Json https://github.com/KosiDossApps/gideros_restful_apis/blob/master/util/Json.lua
+Rest https://github.com/KosiDossApps/gideros_restful_apis/blob/master/util/rest.lua
