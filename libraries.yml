@@ -49,3 +49,14 @@ Rest:
 BinaryHeap:
   url: https://github.com/Yonaba/Binary-Heaps/raw/master/binary_heap.lua
   readme: https://github.com/Yonaba/Binary-Heaps
+Jumper:
+  url: https://github.com/Yonaba/Jumper/raw/master
+  readme: https://github.com/Yonaba/Jumper
+  files:
+    - Jumper/init.lua
+    - Jumper/jumper.lua
+    - Jumper/core/grid.lua
+    - Jumper/core/heuristics.lua
+    - Jumper/core/node.lua
+    - Jumper/core/third-party/LCS.lua
+    - Jumper/core/third-party/binary_heap.lua
