@@ -1,0 +1,51 @@
+Scene-Manager:
+  url: https://github.com/gideros/Scene-Manager/raw/master/scenemanager.lua
+  readme: https://github.com/gideros/Scene-Manager
+GTween:
+  url: https://github.com/gideros/GTween/raw/master/gtween.lua
+  readme: https://github.com/gideros/GTween
+Button:
+  url: https://github.com/gideros/Button/raw/master/button.lua
+  readme: https://github.com/gideros/Button
+BMFont:
+  url: https://github.com/gideros/BMFont/raw/master/bmfont.lua
+  readme: https://github.com/gideros/BMFont
+Easing:
+  url: https://github.com/gideros/Scene-Manager/raw/master/easing.lua
+  readme: https://github.com/gideros/Scene-Manager
+Allen:
+  url: https://github.com/Yonaba/Allen/raw/master/Lib/Allen.lua
+  readme: https://github.com/Yonaba/Allen
+Moses:
+  url: https://github.com/Yonaba/Moses/raw/master/Lib/Moses.lua
+  readme: https://github.com/Yonaba/Moses
+AceSlide:
+  url: https://github.com/ar2rsawseen/AceSlide_oop/raw/master/AceSlide.lua
+  readme: https://github.com/ar2rsawseen/AceSlide_oop
+Localize:
+  url: https://github.com/ar2rsawseen/Localize/raw/master/Localize.lua
+  readme: https://github.com/ar2rsawseen/Localize
+Gestures:
+  url: https://github.com/ar2rsawseen/Gestures/raw/master/Gestures.lua
+  readme: https://github.com/ar2rsawseen/Gestures
+TextWrap:
+  url: https://github.com/ar2rsawseen/TextWrap/raw/master/TextWrap.lua
+  readme: https://github.com/ar2rsawseen/TextWrap
+dataSaver:
+  url: https://github.com/ar2rsawseen/dataSaver/raw/master/dataSaver.lua
+  readme: https://github.com/ar2rsawseen/dataSaver
+Unite:
+  url: https://github.com/ar2rsawseen/GiderosUnite/raw/master/classes/Unite.lua
+  readme: https://github.com/ar2rsawseen/GiderosUnite
+NdShape:
+  url: https://github.com/ndoss/gideros_playground/raw/master/shapes/ndshape.lua
+  readme: https://github.com/ndoss/gideros_playground
+Json:
+  url: https://github.com/KosiDossApps/gideros_restful_apis/raw/master/util/Json.lua
+  readme: https://github.com/KosiDossApps/gideros_restful_apis
+Rest:
+  url: https://github.com/KosiDossApps/gideros_restful_apis/raw/master/util/rest.lua
+  readme: https://github.com/KosiDossApps/gideros_restful_apis
+BinaryHeap:
+  url: https://github.com/Yonaba/Binary-Heaps/raw/master/binary_heap.lua
+  readme: https://github.com/Yonaba/Binary-Heaps
