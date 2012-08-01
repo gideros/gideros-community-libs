@@ -1,0 +1,45 @@
+[submodule "vendor/Scene-Manager"]
+	path = vendor/Scene-Manager
+	url = git://github.com/gideros/Scene-Manager.git
+[submodule "vendor/GTween"]
+	path = vendor/GTween
+	url = git://github.com/gideros/GTween.git
+[submodule "vendor/Button"]
+	path = vendor/Button
+	url = git://github.com/gideros/Button.git
+[submodule "vendor/BMFont"]
+	path = vendor/BMFont
+	url = git://github.com/gideros/BMFont.git
+[submodule "vendor/Allen"]
+	path = vendor/Allen
+	url = git://github.com/Yonaba/Allen.git
+[submodule "vendor/Moses"]
+	path = vendor/Moses
+	url = git://github.com/Yonaba/Moses.git
+[submodule "vendor/AceSlide_oop"]
+	path = vendor/AceSlide_oop
+	url = git://github.com/ar2rsawseen/AceSlide_oop.git
+[submodule "vendor/Localize"]
+	path = vendor/Localize
+	url = git://github.com/ar2rsawseen/Localize.git
+[submodule "vendor/Gestures"]
+	path = vendor/Gestures
+	url = git://github.com/ar2rsawseen/Gestures.git
+[submodule "vendor/TextWrap"]
+	path = vendor/TextWrap
+	url = git://github.com/ar2rsawseen/TextWrap.git
+[submodule "vendor/dataSaver"]
+	path = vendor/dataSaver
+	url = git://github.com/ar2rsawseen/dataSaver.git
+[submodule "vendor/GiderosUnite"]
+	path = vendor/GiderosUnite
+	url = git://github.com/ar2rsawseen/GiderosUnite.git
+[submodule "vendor/gideros_playground"]
+	path = vendor/gideros_playground
+	url = git://github.com/ndoss/gideros_playground.git
+[submodule "vendor/gideros_restful_apis"]
+	path = vendor/gideros_restful_apis
+	url = git://github.com/KosiDossApps/gideros_restful_apis.git
+[submodule "vendor/Binary-Heaps"]
+	path = vendor/Binary-Heaps
+	url = git://github.com/Yonaba/Binary-Heaps.git
