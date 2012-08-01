@@ -2,7 +2,6 @@ git://github.com/gideros/Scene-Manager.git
 git://github.com/gideros/GTween.git
 git://github.com/gideros/Button.git
 git://github.com/gideros/BMFont.git
-git://github.com/gideros/Scene-Manager.git
 git://github.com/Yonaba/Allen.git
 git://github.com/Yonaba/Moses.git
 git://github.com/ar2rsawseen/AceSlide_oop.git
@@ -15,3 +14,5 @@ git://github.com/ndoss/gideros_playground.git
 git://github.com/KosiDossApps/gideros_restful_apis.git
 git://github.com/Yonaba/Binary-Heaps.git
 git://github.com/Yonaba/Jumper.git
+git://github.com/mathz/InputKeyboard.git
+git://github.com/guava7/Gideros-multitouch.git
