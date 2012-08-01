@@ -1,17 +1,16 @@
-Scene-Manager https://github.com/gideros/Scene-Manager/raw/master/scenemanager.lua
-GTween https://github.com/gideros/GTween/raw/master/gtween.lua
-Button https://github.com/gideros/Button/raw/master/button.lua
-BMFont https://github.com/gideros/BMFont/raw/master/bmfont.lua
-Easing https://github.com/gideros/Scene-Manager/raw/master/easing.lua
-Allen https://github.com/Yonaba/Allen/raw/master/Lib/Allen.lua
-Moses https://github.com/Yonaba/Moses/raw/master/Lib/Moses.lua
-AceSlide https://github.com/ar2rsawseen/AceSlide_oop/raw/master/AceSlide.lua
-Localize https://github.com/ar2rsawseen/Localize/raw/master/Localize.lua
-Gestures https://github.com/ar2rsawseen/Gestures/raw/master/Gestures.lua
-TextWrap https://github.com/ar2rsawseen/TextWrap/raw/master/TextWrap.lua
-dataSaver https://github.com/ar2rsawseen/dataSaver/raw/master/dataSaver.lua
-Unite https://github.com/ar2rsawseen/GiderosUnite/raw/master/classes/Unite.lua
-NdShape https://github.com/ndoss/gideros_playground/raw/master/shapes/ndshape.lua
-Json https://github.com/KosiDossApps/gideros_restful_apis/raw/master/util/Json.lua
-Rest https://github.com/KosiDossApps/gideros_restful_apis/raw/master/util/rest.lua
-BinaryHeap https://github.com/Yonaba/Binary-Heaps/raw/master/binary_heap.lua
+git://github.com/gideros/Scene-Manager.git
+git://github.com/gideros/GTween.git
+git://github.com/gideros/Button.git
+git://github.com/gideros/BMFont.git
+git://github.com/gideros/Scene-Manager.git
+git://github.com/Yonaba/Allen.git
+git://github.com/Yonaba/Moses.git
+git://github.com/ar2rsawseen/AceSlide_oop.git
+git://github.com/ar2rsawseen/Localize.git
+git://github.com/ar2rsawseen/Gestures.git
+git://github.com/ar2rsawseen/TextWrap.git
+git://github.com/ar2rsawseen/dataSaver.git
+git://github.com/ar2rsawseen/GiderosUnite.git
+git://github.com/ndoss/gideros_playground.git
+git://github.com/KosiDossApps/gideros_restful_apis.git
+git://github.com/Yonaba/Binary-Heaps.git
