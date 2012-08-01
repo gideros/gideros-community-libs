@@ -14,3 +14,4 @@ git://github.com/ar2rsawseen/GiderosUnite.git
 git://github.com/ndoss/gideros_playground.git
 git://github.com/KosiDossApps/gideros_restful_apis.git
 git://github.com/Yonaba/Binary-Heaps.git
+git://github.com/Yonaba/Jumper.git
