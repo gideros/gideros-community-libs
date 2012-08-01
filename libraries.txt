@@ -14,3 +14,4 @@ Unite https://github.com/ar2rsawseen/GiderosUnite/raw/master/classes/Unite.lua
 NdShape https://github.com/ndoss/gideros_playground/raw/master/shapes/ndshape.lua
 Json https://github.com/KosiDossApps/gideros_restful_apis/raw/master/util/Json.lua
 Rest https://github.com/KosiDossApps/gideros_restful_apis/raw/master/util/rest.lua
+BinaryHeap https://github.com/Yonaba/Binary-Heaps/raw/master/binary_heap.lua
