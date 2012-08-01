@@ -1,7 +1,7 @@
 gideros-community-libs
 ======================
 
-Gideros Open Community Libraries
+This repository holds a list of publicly available and open source libraries, helpers, utilities and sample Lua code that can be used in Gideros Studio. Feel free to include them in your mobile apps, games and ebooks.
 
 ## Requesting addition of a library
 
