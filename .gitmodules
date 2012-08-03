@@ -46,3 +46,12 @@
 [submodule "vendor/Jumper"]
 	path = vendor/Jumper
 	url = git://github.com/Yonaba/Jumper.git
+[submodule "vendor/InputKeyboard"]
+	path = vendor/InputKeyboard
+	url = git://github.com/mathz/InputKeyboard.git
+[submodule "vendor/Gideros-multitouch"]
+	path = vendor/Gideros-multitouch
+	url = git://github.com/guava7/Gideros-multitouch.git
+[submodule "vendor/Json"]
+	path = vendor/Json
+	url = git://github.com/ar2rsawseen/Json.git
