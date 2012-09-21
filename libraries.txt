@@ -17,5 +17,5 @@ git://github.com/Yonaba/Jumper.git
 git://github.com/mathz/InputKeyboard.git
 git://github.com/guava7/Gideros-multitouch.git
 git://github.com/ar2rsawseen/Json.git
-git://github.com/ezaniar/gideros_seamlesspattern.git
-git://github.com/ezaniar/gideros_audio.git
+git://github.com/zaniar/gideros_seamlesspattern.git
+git://github.com/zaniar/gideros_audio.git
