@@ -19,3 +19,4 @@ git://github.com/guava7/Gideros-multitouch.git
 git://github.com/ar2rsawseen/Json.git
 git://github.com/zaniar/gideros_seamlesspattern.git
 git://github.com/zaniar/gideros_audio.git
+git://github.com/nascode/gideros_animsheet.git
