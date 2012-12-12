@@ -1,7 +1,7 @@
 git://github.com/gideros/Scene-Manager.git
 git://github.com/gideros/GTween.git
 git://github.com/gideros/Button.git
-git://github.com/gideros/BMFont.git
+git://github.com/nascode/BMFont.git
 git://github.com/Yonaba/Allen.git
 git://github.com/Yonaba/Moses.git
 git://github.com/ar2rsawseen/AceSlide_oop.git
@@ -10,6 +10,10 @@ git://github.com/ar2rsawseen/Gestures.git
 git://github.com/ar2rsawseen/TextWrap.git
 git://github.com/ar2rsawseen/dataSaver.git
 git://github.com/ar2rsawseen/GiderosUnite.git
+git://github.com/ar2rsawseen/AppRater.git
+git://github.com/ar2rsawseen/GiderosFlurryAndroid.git
+git://github.com/ar2rsawseen/Progressbar.git
+git://github.com/ar2rsawseen/Share.git
 git://github.com/ndoss/gideros_playground.git
 git://github.com/KosiDossApps/gideros_restful_apis.git
 git://github.com/Yonaba/Binary-Heaps.git
